@@ -189,6 +189,7 @@
     "status": "ERROR",
     "message": "Получены неверные параметры."
 }
+---
 ![Количество указано в HTML](screenshots/one.jpg)
 
 
