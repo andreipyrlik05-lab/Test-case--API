@@ -60,7 +60,7 @@
     }
 }
 ```
-https://total_sum_api.jpg/
+screenshots/Total_sum_API.jpg
 
 ---
 
