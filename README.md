@@ -34,7 +34,7 @@
     "quantity": null
 }
 ```
-
+![Успешное добавление](screenshots/quantity=1.jpg)
 ---
 
 ### **Тест-кейс ID: API-002**
