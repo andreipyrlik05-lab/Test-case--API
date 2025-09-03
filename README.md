@@ -147,7 +147,7 @@
     "quantity": "7"
 }
 ```
-![Превышение лимита](screenshots/quantity = 50.jpg)
+![Указание несуществующего склада](screenshots/warehouse.jpg)
 ---
 
 ### **Тест-кейс ID: API-105**
