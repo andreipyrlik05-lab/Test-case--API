@@ -60,7 +60,6 @@
     }
 }
 
-![Пример успешного ответа API с рассчитанной суммой](screenshots_api_test/Total_sum_API.jpg)
 ```
 
 
