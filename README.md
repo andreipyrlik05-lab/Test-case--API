@@ -170,7 +170,7 @@
     "quantity": null
 }
 ```
-
+![Указание несуществующего склада](screenshots/warehouse.jpg)
 ---
 
 ### **Тест-кейс ID: API-106**
