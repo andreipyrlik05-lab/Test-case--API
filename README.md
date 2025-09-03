@@ -213,7 +213,7 @@
 
 ![Пример успешного ответа API с рассчитанной суммой](screenshots/TotalsumAPI.jpg)
 ![Пример успешного ответа API- UI с рассчитанной суммой](screenshots/TotalsumUI.jpg)
-
+![Количество указано в HTML](screenshots/quantityHTML.jpg)
 ---
 
 
