@@ -191,7 +191,7 @@
 }
 ```
 
-![Количество указано в HTML](screenshots/one.jpg)
+![Передача нечислового значения в quantity](screenshots/one.jpg)
 
 
 
